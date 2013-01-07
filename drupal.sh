@@ -1,6 +1,6 @@
      sudo su
      wget http://ftp.drupal.org/files/projects/drupal-7.18.tar.gz
-     tar -zxvf drupal-7.0.tar.gz
+     tar -zxvf drupal-7.18.tar.gz
      chmod 777 -R /var/www
      mkdir /var/www/drupal1
      mv drupal-7.0/* drupal-7.0/.htaccess /var/www/drupal1/
