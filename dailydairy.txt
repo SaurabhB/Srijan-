@@ -28,6 +28,10 @@ $ git add {filename}
 
 git diff : will tell which file have been modified and what all have been modified.
 
+$git commit : this would commit everything that been staged.
 
+$rm  filename
+$git rm filename :it used to remove a file
+$git mv filename newfile
 
 
