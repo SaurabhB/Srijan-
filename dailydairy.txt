@@ -7,15 +7,27 @@ Git Basics :
 To track new project , we need to go that project directory 
 and do -- git init
 
+$cd dirname
+$git init
+
 This create new sub-dir which include basic git files builds git repo. skelton.
 
 To clone an eisting repo.
 
 Do git clone {url}      url -- address of the git repo you want to clone.
 
+$ git clone {url}
 
 Git Status : it checks the status of the local repo, and untracked files, modified files, and tells you which you
              are on.
-git add  : in order track untracked file use this command, to stage files,
+$ git status
+
+git add  : in order track untracked file use this command, to stage files.
+   
+$ git add {filename}
+
+git diff : will tell which file have been modified and what all have been modified.
+
+
 
 
