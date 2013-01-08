@@ -12,4 +12,5 @@
      service apache2 restart
      sudo /etc/init.d/apache2 restart
 
-
+     sudo cp /usr/share/phpmyadmin /var/www/phpmyadmin
+ 
